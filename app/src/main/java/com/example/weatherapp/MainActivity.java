@@ -10,7 +10,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-//    3:55
+//    12:15
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
